@@ -1,8 +1,8 @@
 {
-  "name":"nova-claude",
-  "version":"1.0.0",
-  "private":true,
-  "type":"module",
-  "scripts":{"start":"node server.js"},
-  "dependencies":{"express":"^5.1.0","@anthropic-ai/sdk":"^0.60.0"}
+  "name": "nova-webllm",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^5.1.0" }
 }
